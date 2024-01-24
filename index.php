@@ -1,9 +1,9 @@
 <?php
 
-a = 0;
+$num = 0;
 
-if (a == 0) {
-  echo 1 / a;
+if ($num == 0) {
+  echo 1 / $num;
 } else {
   echo "Hello World!";
 }
